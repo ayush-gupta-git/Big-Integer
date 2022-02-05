@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BigInteger</string>
+    <string name="title">Number Display</string>
+    <string name="subTitle">Press the number which is greater :o </string>
+    <string name="Number">87</string>
+</resources>
